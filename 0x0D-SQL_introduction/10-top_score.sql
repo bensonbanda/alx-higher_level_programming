@@ -1,4 +1,4 @@
 -- list all records in the table
-SELECT `scores`, `name`
+SELECT `score`, `name`
 FROM `second_table`
 ORDER BY `score` DESC;
