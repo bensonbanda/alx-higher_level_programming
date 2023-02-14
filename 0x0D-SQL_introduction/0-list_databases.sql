@@ -1,2 +1,2 @@
-#list the available databases in this server.
+-- list the available databases in this server.
 SHOW DATABASES;
